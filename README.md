@@ -1,62 +1,148 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio website!  
-This portfolio showcases my projects, certifications, resume, skills, and my journey in Cloud Computing & Web Development.
+<div align="center">
 
----
+### 🚀 Aryan Singh — Cloud Computing & Web Development
 
-## 🚀 Live Website
+A modern personal portfolio built to showcase my **projects,
+certifications, skills, resume, and learning journey** in Cloud
+Computing & Web Development.
 
-🔗 https://aryansingh055.github.io/portfolio-website/
+**[🌐 Live
+Website](https://aryansingh055.github.io/portfolio-website/)**
 
----
+</div>
 
-## 👨‍💻 About The Project
+------------------------------------------------------------------------
 
-This portfolio website was created to:
-- Showcase my skills and projects
-- Display certifications and resume
-- Share my cloud computing learning journey
-- Build a professional online presence
+## 👋 About
 
----
+Welcome to my personal portfolio website!
 
-## 🛠️ Technologies Used
+This website is designed to build a professional online presence and
+showcase my work, technical skills, certifications, resume, and
+continuous learning journey.
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+### 🎯 What this portfolio showcases
 
----
+- 💻 Projects & practical work
+- ☁️ Cloud Computing learning journey
+- 📜 Certifications
+- 📄 Resume
+- 🛠️ Technical skills
+- 📬 Contact information
+- 🚀 Frontend development & UI work
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+| Technology       | Purpose                                 |
+|------------------|-----------------------------------------|
+| **HTML5**        | Website structure                       |
+| **CSS3**         | Styling, responsive design & animations |
+| **JavaScript**   | Interactions & dynamic functionality    |
+| **GitHub Pages** | Website deployment                      |
+
+------------------------------------------------------------------------
 
 ## ✨ Features
 
-- Responsive Modern Design
-- Smooth UI & Animations
-- Certifications Section
-- Resume Download
-- Contact Section
-- Project Showcase
+- 📱 **Responsive Modern Design**
+- 🎨 **Clean & Professional UI**
+- ⚡ **Smooth Animations**
+- 📜 **Certifications Showcase**
+- 📄 **Resume Download**
+- 💼 **Project Showcase**
+- 📬 **Contact Section**
+- ☁️ **Cloud Computing Journey**
+- 🌐 **Live Deployment with GitHub Pages**
 
----
+------------------------------------------------------------------------
 
-## 📚 Learning Goals
+## 📁 Project Structure
 
-Through this project, I learned:
-- Frontend Web Development
-- Website Deployment using GitHub Pages
-- Responsive Design
-- Portfolio Design Structure
+``` text
+portfolio-website/
+│
+├── assets/
+│   └── images/
+│       └── My Photo.png
+│
+├── certificates/
+│   ├── Certificates Web Development - MERN Stack.pdf
+│   ├── Prompt Engineering AS.pdf
+│   ├── Resume.pdf
+│   └── TCS Ion Certificate.pdf
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── index.html
+└── README.md
+```
 
----
+------------------------------------------------------------------------
+
+## 📚 Learning Journey
+
+Through this project, I have strengthened my understanding of:
+
+- 🌐 Frontend Web Development
+- 🎨 Responsive Web Design
+- ⚡ JavaScript & Web Interactions
+- 🚀 Website Deployment
+- 🔧 Git & GitHub
+- 📄 Portfolio Design & Structure
+- ☁️ Cloud Computing fundamentals
+
+------------------------------------------------------------------------
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/aryansingh055
-- LinkedIn: https://www.linkedin.com/in/aryan-singh-615a44369
-- Email: aryansinghas7703@gmail.com
+<div align="center">
 
----
+**GitHub**  
+<https://github.com/aryansingh055>
 
-⭐ If you like this project, feel free to star the repository!
+**LinkedIn**  
+<https://www.linkedin.com/in/aryan-singh-615a44369>
+
+**Email**  
+<aryansinghas7703@gmail.com>
+
+</div>
+
+------------------------------------------------------------------------
+
+## 🚀 Deployment
+
+This portfolio is deployed using **GitHub Pages**.
+
+🌐 **Live:**  
+<https://aryansingh055.github.io/portfolio-website/>
+
+------------------------------------------------------------------------
+
+## ⭐ Support
+
+If you like this project or find it useful, feel free to:
+
+⭐ **Star the repository**
+
+💡 **Explore the code**
+
+🤝 **Connect with me**
+
+------------------------------------------------------------------------
+
+<div align="center">
+
+### 💻 Built with HTML • CSS • JavaScript
+
+**Learning. Building. Improving. 🚀**
+
+</div>
